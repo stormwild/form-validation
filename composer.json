@@ -1,0 +1,15 @@
+{
+    "name": "stormwild/form-validation",
+    "type": "project",
+    "require": {
+    },
+    "authors": [
+        {
+            "name": "Alexander R. Torrijos",
+            "email": "artorrijos@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.0"
+    }
+}
